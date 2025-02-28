@@ -1,8 +1,27 @@
-# React + Vite
+## Clonar repositorio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+```bash 
+git clone https://github.com/YormanAlexanderCarrillo/SysoSoutPage.git
+```
+## Ingresar carpeta
 
-Currently, two official plugins are available:
+```bash
+cd SysoSoutPage
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Instalar paquetes necesarios
+
+```bash
+npm install
+```
+
+## Inicializar el servidor 
+### Modo desarrollo
+
+```bash
+npm run dev
+```
+
+## Autores
+
+- Autores: Cristian David Cordoba Tibocha - Yorman Alexander Carrillo Matinez 
